@@ -4,7 +4,6 @@ This is the repository I have created to upload my answers for the questions in 
 QUESTION 1: 
 <br>
 ( a.) Display the path of your current directory
-<br>
 ans: we can display the path of our current directory using 'pwd' command
 ![image](https://github.com/bhavisan/bash-challenges/assets/155368794/26575900-465a-424f-b0c9-d7ef8dad53b6)
 
