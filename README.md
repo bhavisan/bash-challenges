@@ -18,7 +18,6 @@ ans: the 'ls' command can be used to display the contents of your current direct
 ( c.) List out the contents of your current directory including hidden files
 ans: the 'ls -a' command is used to display contents of current directory including hidden files
 ![image](https://github.com/bhavisan/bash-challenges/assets/155368794/18053eb5-cde1-4ca0-b9aa-e44a00e380ea)
-</br>
 <br>
 QUESTION 2:
 ( a.) Create a new directory named a
