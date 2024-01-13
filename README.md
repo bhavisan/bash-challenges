@@ -5,7 +5,8 @@ QUESTION 1:
 <br>
 ( a.) Display the path of your current directory
 ans: we can display the path of our current directory using 'pwd' command
-![image](https://github.com/bhavisan/bash-challenges/assets/155368794/26575900-465a-424f-b0c9-d7ef8dad53b6)
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/9fca7adc-d512-4d2e-b853-67249677a437)
+
 
 
 
@@ -25,15 +26,30 @@ ans: the 'ls -a' command is used to display contents of current directory includ
 QUESTION 2:
 <br>
 ( a.) Create a new directory named a
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/00982172-ab47-493f-a1f3-fc0a120209f7)
 
 ( b.) Move to the newly created directory a
 
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/9f8b23a3-8276-41b6-84d9-d04813fa8b3b)
+
 ( c.) Create a blank file named “file1”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/4168c209-0ab7-4d4c-acb5-ef0813b17e3a)
+
+
 
 ( d.) Display the file type of “file1”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/e0953cc6-755b-4159-9d48-017736b76f4b)
+
 
 ( e.) Add the line “Hello World” to “file1” using the command echo
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/7bde148b-f391-4097-a7df-7a20ea2c6f8c)
+
 
 ( f.) Display the contents of “file1”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/a4249a72-b6d3-470f-be52-572b6dc78ade)
+
 
 ( g.) Display the file type of “file1” again
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/15f62498-3fea-4615-921d-e1ecaf9ce968)
+
+
