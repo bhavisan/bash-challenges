@@ -51,5 +51,33 @@ QUESTION 2:
 
 ( g.) Display the file type of “file1” again
 ![image](https://github.com/bhavisan/bash-challenges/assets/155368794/15f62498-3fea-4615-921d-e1ecaf9ce968)
+<br>
+QUESTION 3.
+
+( a.) Stay in directory a. Create a file “file2” and add the contents below using the  command cat
+
+First Line Second Line Third Line
+
+( b.) Display the contents of “file2”
+
+( c.) Display the contents of “file2” with the lines reversed
+<br>
+QUESTION 4.
+
+( a.) Stay in directory a. Concatenate the contents of “file1” and “file2” and save them into a new file “file3”
+
+( b.) Display the contents of “file3”
+<br>
+QUESTION 5.
+
+( a.) Stay in directory a. Create 2 directories b/c with a single command
+
+( b.) Create a new directory d
+
+( c.) Copy the directory d to directory c using a single command
+
+( d.) Delete the directory d in the current directory a
+
+( e.) Copy “file3” to the directory d with a single command
 
 
