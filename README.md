@@ -57,28 +57,48 @@ QUESTION 3.
 ( a.) Stay in directory a. Create a file “file2” and add the contents below using the  command cat
 
 First Line Second Line Third Line
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/c6d51305-ec40-4cee-92f1-6520743b66b7)
+
 
 ( b.) Display the contents of “file2”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/e3309b51-e224-44ed-986c-3810f79871e0)
+
+
 
 ( c.) Display the contents of “file2” with the lines reversed
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/45feb99d-0392-4242-9608-691a59e352b2)
+
+
 <br>
 QUESTION 4.
 
 ( a.) Stay in directory a. Concatenate the contents of “file1” and “file2” and save them into a new file “file3”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/0476d60f-d593-4431-bb7b-f57dd07b905d)
+
 
 ( b.) Display the contents of “file3”
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/bc096412-1a15-4b69-b7f5-875e0c5698b6)
+
 <br>
 QUESTION 5.
 
 ( a.) Stay in directory a. Create 2 directories b/c with a single command
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/9beca6ea-3e1c-4423-a0f2-6d5c0fa6e462)
+
 
 ( b.) Create a new directory d
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/edccbaac-78db-4822-925f-982be2d67eb3)
 
 ( c.) Copy the directory d to directory c using a single command
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/3cb48e4c-4123-418a-a985-f7b936045dec)
+
 
 ( d.) Delete the directory d in the current directory a
+![image](https://github.com/bhavisan/bash-challenges/assets/155368794/54c4db30-11ec-414f-a936-95959a2fcf5e)
+
 
 ( e.) Copy “file3” to the directory d with a single command
+
 **6.**
 
 ( a.) Go to directory d and rename “file3” to “file0”
